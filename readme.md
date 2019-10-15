@@ -5,7 +5,7 @@ This session is about Node Js advanced skills {Streams}.
 ## Initialize
 For initialize we need NodeJS >= 8.0.0
 
-  node ./initialize.js
+`node ./pop_file.js`
 
 ## Explain
   
